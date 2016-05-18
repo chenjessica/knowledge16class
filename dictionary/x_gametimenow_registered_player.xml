@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Registered Player" max_length="40" name="x_gametimenow_registered_player" type="collection"/>
+</database>
